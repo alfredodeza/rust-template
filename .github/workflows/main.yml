@@ -1,0 +1,22 @@
+# This is an example GitHub Actions workflow that will allow you to build your project with every push or pull request.
+# For more information, see:
+# https://docs.github.com/actions/reference/workflow-syntax-for-github-actions
+
+name: Rust Build
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Rust
+      uses: actions/setup-rust@v1
+      with:
+        rust-version: stable
+    - name: Build
+      run: cargo build --verbose
