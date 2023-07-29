@@ -6,6 +6,10 @@ This Rust template is meant to help you get quickly started with a new project. 
 
 This repository is configured as a GitHub Template, so that you can start fresh with a new repository without carrying the history and commits of this repository. To get started you can click on the "Use this template" green button, or follow this [link directly](https://github.com/alfredodeza/rust-template/generate)
 
+🚀 **Watch the Video course**
+
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
+
 ## Get started
 
 To get started with this template, once you've [generated the repository](https://github.com/alfredodeza/rust-template/generate), run the following `cargo` command (replace my-project with the name of your project):
