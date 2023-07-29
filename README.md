@@ -6,6 +6,15 @@ This Rust template is meant to help you get quickly started with a new project. 
 
 This repository is configured as a GitHub Template, so that you can start fresh with a new repository without carrying the history and commits of this repository. To get started you can click on the "Use this template" green button, or follow this [link directly](https://github.com/alfredodeza/rust-template/generate)
 
+This is the Rust template used as part of the [Rust Bootcamp](https://s.deza.pe/zjo). There are 4 weeks in total:
+
+- [week 1](https://github.com/alfredodeza/rust-setup) 
+- [week 2](https://github.com/alfredodeza/rust-fundamentals)
+- [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
+- [week 4](https://github.com/alfredodeza/applied-rust)
+- [Rust Template](https://github.com/alfredodeza/rust-template) 👈 You are here!
+  
+
 🚀 **Watch the Video course**
 
 [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
