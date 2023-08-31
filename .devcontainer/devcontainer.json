@@ -12,7 +12,7 @@
 				"GitHub.copilot-nightly"
 			]
 		}
-	}
+	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "rustc --version"
